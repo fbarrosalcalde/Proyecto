@@ -95,7 +95,6 @@ for t in T:
 
 #Restricción materia prima que se congela (vida útil)
 
-        
 #Restricción cantidad de producto no debe ser mayor a la demanda, para asegurar su venta
 resultado = 0
 for t in T:
